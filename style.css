@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(135deg, #6dd5ed, #2193b0);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.clock {
+  background: white;
+  padding: 40px 80px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+h1 {
+  font-size: 3em;
+  letter-spacing: 2px;
+}
